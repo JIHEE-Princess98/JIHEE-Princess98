@@ -20,7 +20,14 @@ Here are some ideas to get you started:
 </div>
 
 <hr/>
-<h3 align="center">✨ SKill ✨</h3>
+<h3 align="center">✨ ABOUT ME ✨</h3>
+<h5 align="center"> NAME : 김지희(JIHEE KIM) </h3>
+<h5 align="center"> BIRTH : 1998-11-13 </h3>
+<h5 align="center"> ADDRESS : 경기도 수원시 </h3>
+<h5 align="center"> E-MAIL : kimjihee1113@gmail.com </h3>
+
+<hr/>
+<h3 align="center">✨ SKILLS ✨</h3>
 
 <h4 align="center">🖥️Design</h4>
 <div align="center">
@@ -89,8 +96,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/GitLab-20232a.svg?style=for-the-badge&logo=gitlab&logoColor=#FC6D26" />
     <img src="https://img.shields.io/badge/PostMan-20232a.svg?style=for-the-badge&logo=postman&logoColor=#FF6C37" />
 </div>
+
+
+
 <div align="center">
- 
    <img src="https://img.shields.io/badge/Pm2-20232a.svg?style=for-the-badge&logo=pm2&logoColor=#2B037A" />
    <img src="https://img.shields.io/badge/Ubuntu-20232a.svg?style=for-the-badge&logo=ubuntu&logoColor=#E95420" />
 </div>
