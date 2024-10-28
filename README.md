@@ -18,3 +18,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
+
+<hr/>
+<h3 align="center">✨ SKill ✨</h3>
+<h4 align="center">🖥️FrontEnd</h4>
+<div align="center">
+   <img src="https://img.shields.io/badge/react.js-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img src="https://img.shields.io/badge/Vue.js-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
+<div align="center">
+   <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Html5-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Css3-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/styled.components-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
+
+<h4 align="center">Library</h4>
+<div align="center">
+   <img src="https://img.shields.io/badge/recoil-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/react.query-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  
+</div>
+
+<h3 align="center">🖥️BackEnd</h3>
+<div align="center">
+   <img src="https://img.shields.io/badge/Node.js-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Express.js-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img src="https://img.shields.io/badge/SpringBoot-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
