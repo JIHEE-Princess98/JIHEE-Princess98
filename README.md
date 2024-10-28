@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20JIHEE%20Git&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&fontAlignY=50)
+
 
 <!--
 **JIHEE-Princess98/JIHEE-Princess98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
