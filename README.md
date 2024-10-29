@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 <hr/>
 <h3 align="center">✨ ABOUT ME ✨</h3>
-<h5 align="center"> NAME : 김지희(JIHEE KIM) </h3>
-<h5 align="center"> BIRTH : 1998-11-13 </h3>
-<h5 align="center"> ADDRESS : 경기도 수원시 </h3>
-<h5 align="center"> E-MAIL : kimjihee1113@gmail.com </h3>
+<p align="center"> Name :김지희(JIHEE KIM) </p>
+<p align="center"> Birth : 1998-11-13 </p>
+<p align="center"> Address : 경기도 수원시 </p>
+<p align="center"> E-mail : kimjihee1113@gmail.com </p>
 
 <hr/>
 <h3 align="center">✨ SKILLS ✨</h3>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 <h1></h1>
 
-<h4 align="center">🖥️FrontEnd</h4>
+<h4 align="center"> 🖥️FrontEnd </h4>
 <div align="center">
    <img src="https://img.shields.io/badge/react.js-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/recoil-20232a.svg?style=for-the-badge&logo=recoil&logoColor=#3578E5" />
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h3 align="center">🖥️BackEnd</h3>
+<h3 align="center"> 🖥️BackEnd </h3>
 <div align="center">
    <img src="https://img.shields.io/badge/Node.js-20232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E" />
    <img src="https://img.shields.io/badge/Express.js-20232a.svg?style=for-the-badge&logo=express&logoColor=#000000" />
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 <h1></h1>
 
-<h3 align="center">✏️ Study ✏️</h3>
+<h3 align="center"> ✏️ Study ✏️ </h3>
 <div align="center">
     <img src="https://img.shields.io/badge/next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=#000000" />
     <img src="https://img.shields.io/badge/Redux-20232a.svg?style=for-the-badge&logo=redux&logoColor=#764ABC" />
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 <h1></h1>
 
-<h3 align="center">🔧 Tools 🔧</h3>
+<h3 align="center"> 🔧 Tools 🔧 </h3>
 <div align="center">
     <img src="https://img.shields.io/badge/Git-20232a.svg?style=for-the-badge&logo=git&logoColor=#F05032" />
      <img src="https://img.shields.io/badge/GitHub-20232a.svg?style=for-the-badge&logo=github&logoColor=#181717" />
@@ -103,5 +103,6 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Pm2-20232a.svg?style=for-the-badge&logo=pm2&logoColor=#2B037A" />
    <img src="https://img.shields.io/badge/Ubuntu-20232a.svg?style=for-the-badge&logo=ubuntu&logoColor=#E95420" />
 </div>
+
 
 
