@@ -40,6 +40,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/react.js-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/recoil-20232a.svg?style=for-the-badge&logo=recoil&logoColor=#3578E5" />
    <img src="https://img.shields.io/badge/react.query-20232a.svg?style=for-the-badge&logo=reactquery&logoColor=#FF4154" />
+    <img src="https://img.shields.io/badge/redux-20232a.svg?style=for-the-badge&logo=recoil&logoColor=#3578E5" />
    <img src="https://img.shields.io/badge/context-20232a.svg?style=for-the-badge&logo=reactrouter&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/MUI-20232a.svg?style=for-the-badge&logo=mui&logoColor=#007FFF" />
 </div>
