@@ -87,6 +87,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/pm2-20232a.svg?style=for-the-badge&logo=pm2&logoColor=#2B037A" />
    <img src="https://img.shields.io/badge/ubuntu-20232a.svg?style=for-the-badge&logo=ubuntu&logoColor=#E95420" />
    <img src="https://img.shields.io/badge/AWS Lambda-20232a.svg?style=for-the-badge&logo=AWS Lambda&logoColor=#FF9900" />
+    <img src="https://img.shields.io/badgenginx-20232a.svg?style=for-the-badge&logo=nginx&logoColor=#009639" />
 </div>
 
 <h1></h1>
