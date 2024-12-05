@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="center"> Address : 경기도 수원시 </p>
 <p align="center"> MBTI :INTJ </p>
 <p align="center"> E-mail : kimjihee1113@gmail.com </p>
-<p align="center"> Blog : kimjihee1113@gmail.com](https://kimjihee1113.tistory.com/ </p>
+<p align="center"> Blog : https://kimjihee1113.tistory.com/ </p>
 
 <hr/>
 <h3 align="center">✨ SKILLS ✨</h3>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/react.js-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/recoil-20232a.svg?style=for-the-badge&logo=recoil&logoColor=#3578E5" />
    <img src="https://img.shields.io/badge/react.query-20232a.svg?style=for-the-badge&logo=reactquery&logoColor=#FF4154" />
-    <img src="https://img.shields.io/badge/redux-20232a.svg?style=for-the-badge&logo=recoil&logoColor=#3578E5" />
+    <img src="https://img.shields.io/badge/redux-20232a.svg?style=for-the-badge&logo=redux&logoColor=#764ABC" />
    <img src="https://img.shields.io/badge/context-20232a.svg?style=for-the-badge&logo=reactrouter&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/MUI-20232a.svg?style=for-the-badge&logo=mui&logoColor=#007FFF" />
 </div>
@@ -75,6 +75,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Mybatis-20232a.svg?style=for-the-badge&logo=mybatis&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/postgresql-20232a.svg?style=for-the-badge&logo=postgresql&logoColor=#4169E1" />
     <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />
+</div>
+
+<h3 align="center"> 🖥️Deploy </h3>
+<div align="center">
+   <img src="https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=git&logoColor=#F05032" />
 </div>
 
 <h1></h1>
