@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 <p align="center"> Name :김지희(JIHEE KIM) </p>
 <p align="center"> Birth : 1998-11-13 </p>
 <p align="center"> Address : 경기도 수원시 </p>
+<p align="center"> MBTI :INTJ </p>
 <p align="center"> E-mail : kimjihee1113@gmail.com </p>
+<p align="center"> Blog : kimjihee1113@gmail.com](https://kimjihee1113.tistory.com/ </p>
 
 <hr/>
 <h3 align="center">✨ SKILLS ✨</h3>
