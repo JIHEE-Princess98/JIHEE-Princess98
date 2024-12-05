@@ -80,6 +80,13 @@ Here are some ideas to get you started:
 <h3 align="center"> 🖥️Deploy </h3>
 <div align="center">
    <img src="https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=git&logoColor=#F05032" />
+    <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=#181717" />
+   <img src="https://img.shields.io/badge/gitlab-20232a.svg?style=for-the-badge&logo=gitlab&logoColor=#FC6D26" />
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/pm2-20232a.svg?style=for-the-badge&logo=pm2&logoColor=#2B037A" />
+   <img src="https://img.shields.io/badge/ubuntu-20232a.svg?style=for-the-badge&logo=ubuntu&logoColor=#E95420" />
+   <img src="https://img.shields.io/badge/AWS Lambda-20232a.svg?style=for-the-badge&logo=AWS Lambda&logoColor=#FF9900" />
 </div>
 
 <h1></h1>
