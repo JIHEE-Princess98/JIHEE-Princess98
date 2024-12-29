@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <p align="center"> Name :김지희(JIHEE KIM) </p>
 <p align="center"> Birth : 1998-11-13 </p>
 <p align="center"> Address : 경기도 수원시 </p>
-<p align="center"> MBTI :INTJ </p>
 <p align="center"> E-mail : kimjihee1113@gmail.com </p>
 <p align="center"> Blog : https://kimjihee1113.tistory.com/ </p>
 
@@ -40,6 +39,7 @@ Here are some ideas to get you started:
 <h4 align="center"> 🖥️FrontEnd </h4>
 <div align="center">
    <img src="https://img.shields.io/badge/react.js-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img src="https://img.shields.io/badge/Redux-20232a.svg?style=for-the-badge&logo=redux&logoColor=#764ABC" />
    <img src="https://img.shields.io/badge/recoil-20232a.svg?style=for-the-badge&logo=recoil&logoColor=#3578E5" />
    <img src="https://img.shields.io/badge/react.query-20232a.svg?style=for-the-badge&logo=reactquery&logoColor=#FF4154" />
     <img src="https://img.shields.io/badge/redux-20232a.svg?style=for-the-badge&logo=redux&logoColor=#764ABC" />
@@ -95,7 +95,6 @@ Here are some ideas to get you started:
 <h3 align="center"> ✏️ Study ✏️ </h3>
 <div align="center">
     <img src="https://img.shields.io/badge/next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=#000000" />
-    <img src="https://img.shields.io/badge/Redux-20232a.svg?style=for-the-badge&logo=redux&logoColor=#764ABC" />
     <img src="https://img.shields.io/badge/Vuex-20232a.svg?style=for-the-badge&logo=vuex&logoColor=#4FC08D" />
 </div>
 <div align="center">
