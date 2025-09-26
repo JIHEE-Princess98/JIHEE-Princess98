@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <p align="center"> Birth : 1998-11-13 </p>
 <p align="center"> Address : 경기도 수원시 </p>
 <p align="center"> E-mail : kimjihee1113@gmail.com </p>
+<p align="center"> 포트폴리오 : https://jihee-princess98.github.io </p>
 <p align="center"> Blog : https://kimjihee1113.tistory.com/ </p>
 <p align="center"> 경력 기술서 : https://github.com/JIHEE-Princess98/project-management</p>
 
